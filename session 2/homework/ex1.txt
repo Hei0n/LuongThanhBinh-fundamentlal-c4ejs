@@ -1,0 +1,14 @@
+1. A JavaScript Boolean represents one of two values: true or false.
+   3 expression that result a Boolean type:
+     2 % 1 === 2;
+     "hai" == 2;
+     2 > 1;
+
+2. A flowchart is a type of diagram that represents a workflow or process. 
+A flowchart can also be defined as a diagrammatic representation of an algorithm, a step-by-step approach to solving a task.          
+The flowchart shows the steps as boxes of various kinds, and their order by connecting the boxes with arrows, 
+this diagrammatic representation illustrates a solution model to a given problem. 
+Flowcharts are used in analyzing, designing, documenting or managing a process or program in various fields.         
+
+3. "Nesting" conditional statements mean you can use one if or else if statement inside another if or else if statement(s).
+     
